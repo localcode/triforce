@@ -1,7 +1,4 @@
-import scipy
 import numpy as np
-import shapely
-import scipy.spatial as spa
 import scipy.spatial.qhull as qhull
 
 
